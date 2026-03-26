@@ -60,8 +60,8 @@ Dual-Track Architecture: Intelligent routing for CN and Global tracks ensures th
 <br>
 
 ### 🇺🇸 English Version
-* [👉 **Download v1.0.0 Stable (Setup.exe - 65.7MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Setup.exe)
-* [👉 **Download v1.0.0 Portable (Portable.zip - 101MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Portable.zip)
+* [👉 **Download v1.0.0 Stable (Setup.exe - 65.7MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/LyricWorkshop_v1.0.0_Setup.exe)
+* [👉 **Download v1.0.0 Portable (Portable.zip - 101MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Stable.zip)
 
 <br>
 Lyric Workshop 1.0 (正式版) 核心功能指南
@@ -110,5 +110,5 @@ UI 呼吸感: 经过视觉终修的反馈界面，美感与实用并存。
 <br>
 
 ### 🇨🇳 中文版下载 (Chinese)
-* [👉 **立即下载 v1.0.0 稳定安装版 (Setup.exe - 65.7MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Setup.exe)
-* [👉 **立即下载 v1.0.0 绿色免安装版 (Portable.zip - 101MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Portable.zip)
+* [👉 **立即下载 v1.0.0 稳定安装版 (Setup.exe - 65.7MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/LyricWorkshop_v1.0.0_Setup.exe)
+* [👉 **立即下载 v1.0.0 绿色免安装版 (Portable.zip - 101MB)**](https://github.com/perilovestudio/LyricWorkshop/releases/download/v1.0.0/Lyric_Workshop_v1.0.0_Stable.zip)
