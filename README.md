@@ -1,3 +1,11 @@
+# 🎵 歌词工坊同步创作系统 (Lyric Workshop) 
+
+---
+
+### 📖 数字化音频同步创作平台 | Digital Audio Sync Creation Platform
+
+**《歌词工坊同步创作系统》** 简称：歌词工坊，是一款专为音乐制作人、词作人打造的高性能、原生级歌词对齐工具。基于 **Nuitka** 深度编译重构，在保持极致轻量体积的同时，提供毫秒级的空格打轴响应精度。
+
 # LyricWorkshop
 Professional lyric timing and production tool. | 专业歌词打轴与制作工具。
 
