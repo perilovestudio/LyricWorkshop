@@ -10,14 +10,20 @@ Lyric Workshop 1.0 (Stable)
 One-Key Space Bar: Tap the Space bar to the beat, and the lyric timestamps are generated instantly. By the end of the song, your lyrics are ready.
 
 Smart Tab Backtrack: Defaults to a 2-line backtrack. Fully customizable settings (1-line, 3s, or 5s) allow you to recover from mistakes instantly without breaking your creative flow.
+<img width="1200" height="800" alt="1 1" src="https://github.com/user-attachments/assets/78a04fb5-cf77-41d4-9739-a9bcf82903b2" />
 
 Auto-Save Every 5 Actions: Your progress is automatically saved every 5 syncing actions, ensuring your inspiration is never lost.
 
 2. 🪄 Metadata Magic
 One-Click Right-Click Assignment: No more tedious manual alignment for Lyrics, Composer, Vocalist, or Arranger info. Right-click to perfectly distribute all metadata across the timeline instantly, solving repetitive tasks with elegance.
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/4452e10f-1b18-43bc-b30e-07887b281397" />
+
 
 3. 🎛️ Versatile Mode Switching
 Play / Sync / Edit: Seamless transitions between three dedicated modes.
+<img width="1200" height="800" alt="6" src="https://github.com/user-attachments/assets/0bcb06cb-db60-4b35-9a88-b049302da82b" />
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f80c5169-6602-4fb6-8207-fad3a473a610" />
 
 Dual-Tier Editing System: Choose between General Edit for quick fixes and Precision Edit for millisecond-level accuracy.
 
@@ -26,16 +32,21 @@ Global Offset: Support for one-click global timeline compensation to adjust the 
 📊 Visual & Interaction Art
 1. 🌊 Dynamic Waveform Visualization
 Synced Scrolling: The waveform scrolls dynamically with the song's progress, keeping your ears and eyes perfectly synchronized.
+<img width="1200" height="800" alt="1 1" src="https://github.com/user-attachments/assets/99a3cebc-7987-43ff-a626-50004020c2e9" />
 
 Stepless Scroll-Wheel Zoom: Support for real-time zooming of the waveform via the mouse wheel. See clearer, sync tighter—even the subtlest breath can be captured with precision.
 
 2. 🌍 Universal Language (i18n)
 19-Language Seamless Toggle: Beyond simple translation, it features full layout reconstruction. Even when switching from LTR (Left-to-Right) to RTL (Right-to-Left, e.g., Arabic), the UI remains flicker-free and perfectly aligned without a restart.
+<img width="1200" height="800" alt="2" src="https://github.com/user-attachments/assets/d679c262-dbcd-484d-89c0-53eb7a128e3f" />
+<img width="1200" height="800" alt="5" src="https://github.com/user-attachments/assets/f482a553-789d-4aaa-9e94-c20cd18a4cb2" />
+<img width="1200" height="800" alt="3" src="https://github.com/user-attachments/assets/56310419-a36f-4b23-908a-2b08784244ea" />
 
 Smart System Sync: Automatically matches system language with support for quick toggling to English.
 
 3. 📂 Industrial-Grade Project Management
 Timeline Retrieval: Locate historical projects accurately by date.
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a1eda436-821f-485a-832c-91632ad434a2" />
 
 Global Search Engine: Search not just by project names, but also directly by lyric content to find your drafts in seconds.
 
