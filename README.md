@@ -10,9 +10,10 @@ Lyric Workshop 1.0 (Stable)
 One-Key Space Bar: Tap the Space bar to the beat, and the lyric timestamps are generated instantly. By the end of the song, your lyrics are ready.
 
 Smart Tab Backtrack: Defaults to a 2-line backtrack. Fully customizable settings (1-line, 3s, or 5s) allow you to recover from mistakes instantly without breaking your creative flow.
-<img width="1200" height="800" alt="1 1" src="https://github.com/user-attachments/assets/78a04fb5-cf77-41d4-9739-a9bcf82903b2" />
 
 Auto-Save Every 5 Actions: Your progress is automatically saved every 5 syncing actions, ensuring your inspiration is never lost.
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/fc9cb6eb-17d7-4d19-86e9-dbec4e293fa6" />
+
 
 2. 🪄 Metadata Magic
 One-Click Right-Click Assignment: No more tedious manual alignment for Lyrics, Composer, Vocalist, or Arranger info. Right-click to perfectly distribute all metadata across the timeline instantly, solving repetitive tasks with elegance.
